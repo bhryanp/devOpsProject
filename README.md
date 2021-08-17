@@ -2,9 +2,9 @@
 Desafio: Fazer uma Infraestrutura como Código de múltiplos serviços integrados.
 
 O sistema deve conter:
-1 - Aplicação Backend utilizando o framework .Net Core 3.1 que já está pronta neste repositório
-2 - Postgresql como banco de dados da aplicação
-3 - Serviço para fazer o Proxy Reverso para a porta 80 (Ex. Nginx)
+- Aplicação Backend utilizando o framework .Net Core 3.1 que já está pronta neste repositório
+- Postgresql como banco de dados da aplicação
+- Serviço para fazer o Proxy Reverso para a porta 80 (Ex. Nginx)
 
 O comportamento esperado da aplicação é a exibição dos valores que serão inseridos no banco durante a inicialização do Backend, quando for requisitado no endereço raiz da porta 80.
 
